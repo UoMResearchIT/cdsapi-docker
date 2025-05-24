@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: python-cdsapi
+  IMAGE_NAME: uomresearchit/python-cdsapi
 
 jobs:
   build-and-push-image:
