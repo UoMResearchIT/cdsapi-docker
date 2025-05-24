@@ -24,7 +24,7 @@ the [Air Quality Prediction](https://workflowhub.eu/projects/103) group.
 The `cdsapi` library has been installed via pip. 
 This can be loaded by python scripts run within the container in the usual manner. 
 To use the tool you will need to register with the CDS portal, and provide a `.cdsapirc` file.
-Instructions for doing this are available from [https://cds.climate.copernicus.eu/api-how-to](https://cds.climate.copernicus.eu/api-how-to).
+Instructions for doing this are available from [https://cds.climate.copernicus.eu/how-to-api](https://cds.climate.copernicus.eu/how-to-api).
 
 ## Pre-built images
 
