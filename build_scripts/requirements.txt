@@ -35,5 +35,5 @@ tqdm==4.67.1
     #   multiurl
 typing-extensions==4.15.0
     # via ecmwf-datastores-client
-urllib3==2.6.0
+urllib3==2.6.3
     # via requests
