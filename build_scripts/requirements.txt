@@ -22,7 +22,7 @@ python-dateutil==2.9.0.post0
     # via multiurl
 pytz==2025.2
     # via multiurl
-requests==2.32.5
+requests==2.33.0
     # via
     #   cdsapi
     #   ecmwf-datastores-client
